@@ -1,0 +1,12 @@
+Abd_El-Baset
+Al-Baqarah,Madinah,Abd_el-baset1
+Al-Imran,Madinah,Abd_el-baset2
+#END
+El-Menshawy
+Al-Baqarah,Madinah,El-menshawy1
+Al-Imran,Madinah,El-menshawy2
+#END
+El-Husary
+Al-Baqarah,Madinah,El-husary1
+Al-Imran,Madinah,El-husary2
+#END
